@@ -78,6 +78,11 @@ p {
   align-items: flex-end;
 }
 
+.message--chat {
+  align-items: center;
+  font-style: italic;
+}
+
 .message--received {
     animation: fadeIn;
     animation-duration: 3s;
